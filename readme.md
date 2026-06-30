@@ -1,2 +1,1 @@
-read me or expire
-
+read me or expire or die
